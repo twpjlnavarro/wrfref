@@ -1,0 +1,8 @@
+alias goetc="cd $HOME/etc"
+alias gobin="cd $HOME/bin"
+alias goout="cd $HOME/out"
+alias golog="cd $HOME/log"
+alias godata="cd $HOME/data"
+alias gowork="cd $HOME/gowork"
+alias gowps="cd $HOME/wps"
+alias gowrf="cd $HOME/wrf"

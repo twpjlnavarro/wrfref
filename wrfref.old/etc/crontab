@@ -1,0 +1,3 @@
+00 05 * * * find /wrf/data/gfs /wrf/out /wrf/log -mtime +6 -delete
+00 06 * * * /home/twpu01/bin/runALL.sh 00 
+00 18 * * * /home/twpu01/bin/runALL.sh 12
